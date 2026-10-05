@@ -1,0 +1,8 @@
+{
+  "name": "json2csv-excel-converter-pro",
+  "version": "1.0.0",
+  "description": "Convert complex JSON data and API payloads into clean, downloadable CSV and Excel spreadsheets instantly.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
